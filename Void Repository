@@ -1,0 +1,9 @@
+eero-platform/
+app/
+components/
+lib/
+public/
+types/
+.env.local
+package.json
+README.md
